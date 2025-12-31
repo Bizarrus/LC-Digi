@@ -1,0 +1,22 @@
+{
+  "name": "lc-digi",
+  "version": "1.0.0",
+  "description": "Control DIGI Series of CPU coolers from manufacturer LC-Power.",
+  "keywords": [
+    "LC-CC-120-DB6",
+    "LC-Power",
+    "Tools",
+    "Digi",
+    "Series"
+  ],
+  "license": "MIT",
+  "author": "Adrian Preuß",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+   "run": "node ."
+  },
+  "dependencies": {
+    "node-hid": "^3.2.0"
+  }
+}
