@@ -26,7 +26,12 @@ export default class Display extends Events.EventEmitter {
     }
 
     setRPM(rpm) {
-        this.RPM = Math.max(0, Math.min(9999, Math.round(rpm)));
+        rpm = Math.max(0, Math.min(9999, Math.round(rpm)));
+
+        if(rpm !== this.RPM) {
+            this.RPM = rpm;
+            this.emit('change');
+        }
     }
 
     toString() {
