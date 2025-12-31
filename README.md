@@ -3,6 +3,7 @@ Control DIGI Series of CPU coolers from manufacturer LC-Power.
 
 <p align="center">
     <img width="300" height="300" src="Screenshots/LC-CC-120-DB6_V2_72_web.jpg" />
+    <br />
     <small>This image is courtesy of <a href="https://www.lc-power.com/" target="_blank">LC-Power.com</a> and is subject to their copyright terms. You can access the official image material via this <a href="https://www.lc-power.com/wp-content/uploads/2024/03/Icon-Bildmaterial.zip-Datei.png" target="_blank">image material archive</a>.</small>
 </p>
 
